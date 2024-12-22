@@ -1,0 +1,21 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+161,Pipestone Indian School,Pipestone,MN,Unnamed child,,1896,,acute nephritis,General illness/Other,ARCIA,F,,,
+161,Pipestone Indian School,Pipestone,MN,Unnamed child,,1905,TRUE,heart failure,Cardiovascular,ARCIA,M,14,,
+161,Pipestone Indian School,Pipestone,MN,Unnamed child,,1912,TRUE,heart trouble,Cardiovascular,"ARCIA, superintendent report",,,,
+161,Pipestone Indian School,Pipestone,MN,Unnamed child,,1915,TRUE,,,ARCIA,,,,
+161,Pipestone Indian School,Pipestone,MN,Unnamed child,,1916,TRUE,tuberculosis,Infectious disease,"ARCIA, superintendent report",,,,
+161,Pipestone Indian School,Pipestone,MN,Unnamed child,,1918,TRUE,,,ARCIA,,,,
+161,Pipestone Indian School,Pipestone,MN,Simon Roy,,1918,,,,"Death index, Findagrave, The Tomahawk 10/31/1918",M,,,
+161,Pipestone Indian School,Pipestone,MN,Unnamed child,,,TRUE,tuberculosis,Infectious disease,"ARCIA, superintendent report",,,,
+161,Pipestone Indian School,Pipestone,MN,Unnamed child,,,TRUE,none listed,Unknown/Unlisted,Superintendent report,M,,,
+161,Pipestone Indian School,Pipestone,MN,Emry White,Emery White,1926,,accident,Accidents/Injuries,"Superintendent report, death record",M,7,,
+161,Pipestone Indian School,Pipestone,MN,Unnamed child,,1928,TRUE,tuberculosis,Infectious disease,ARCIA,,,,
+161,Pipestone Indian School,Pipestone,MN,Unnamed child,,1928,TRUE,tuberculosis,Infectious disease,ARCIA,,,,
+161,Pipestone Indian School,Pipestone,MN,Unnamed child,,1928,TRUE,,,ARCIA,,,,
+161,Pipestone Indian School,Pipestone,MN,Unnamed child,,1928,TRUE,,,ARCIA,,,,
+161,Pipestone Indian School,Pipestone,MN,Unnamed child,,1928,TRUE,,,ARCIA,,,,
+161,Pipestone Indian School,Pipestone,MN,Charles Grant Hudson,,1928,,pneumonia,Infectious disease,"Superintendent report, census, death record",M,14,Chippewa,"Ojibwe, Ottawa, Potawatomi"
+161,Pipestone Indian School,Pipestone,MN,Unnamed child,,1929,,endocarditis,Infectious disease,Superintendent report,F,13,Chippewa,"Ojibwe, Ottawa, Potawatomi"
+161,Pipestone Indian School,Pipestone,MN,Unnamed child,,1929,,,,Interior FOIA,,,Minnesota Chippewa,"Ojibwe, Ottawa, Potawatomi"
+161,Pipestone Indian School,Pipestone,MN,Unnamed child,,1933,,,,Interior FOIA,,,Sioux,"Sioux, Assiniboine"
+161,Pipestone Indian School,Pipestone,MN,Bernice Keezer,,1940,,accidentally drank poison,Accidents/Injuries,"Redwood Gazette 5/2/1940, death index",F,,,

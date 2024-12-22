@@ -1,0 +1,17 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+268,Wahpeton Indian School,Wahpeton,ND,Unnamed child,,,TRUE,cerebral meningitis,Infectious disease,Superintendent report,,,,
+268,Wahpeton Indian School,Wahpeton,ND,Belle Portucine,,,,typhoid fever,Infectious disease,Wahpeton Times 4/8/1915,F,15,,
+268,Wahpeton Indian School,Wahpeton,ND,Unnamed child,,1916,TRUE,,,ARCIA,,,,
+268,Wahpeton Indian School,Wahpeton,ND,Unnamed child,,1918,TRUE,tuberculosis,Infectious disease,"ARCIA, superintendent report",,,,
+268,Wahpeton Indian School,Wahpeton,ND,Unnamed child,,1918,TRUE,,,ARCIA,,,,
+268,Wahpeton Indian School,Wahpeton,ND,Joseph Stone,,1918,,flu,Infectious disease,"ARCIA, superintendent report, death certificate",M,20,,
+268,Wahpeton Indian School,Wahpeton,ND,Louisa Wadena,,1918,,flu,Infectious disease,"ARCIA, superintendent report, death certificate, Findagrave",F,,,
+268,Wahpeton Indian School,Wahpeton,ND,Unnamed child,,1925,,,,Interior FOIA,M,,Chippewa,"Ojibwe, Ottawa, Potawatomi"
+268,Wahpeton Indian School,Wahpeton,ND,Unnamed child,,1929,,,,Interior FOIA,M,,Sisseton Wahpeton Oyate Sioux,"Sioux, Assiniboine"
+268,Wahpeton Indian School,Wahpeton,ND,Unnamed child,,,TRUE,pneumonia,Infectious disease,Superintendent report,M,,,
+268,Wahpeton Indian School,Wahpeton,ND,Unnamed child,,,TRUE,tuberculosis,Infectious disease,Superintendent report,M,,,
+268,Wahpeton Indian School,Wahpeton,ND,Unnamed child,,,TRUE,,,Superintendent report,,,,
+268,Wahpeton Indian School,Wahpeton,ND,Unnamed child,,,TRUE,acute nephritis,General illness/Other,Superintendent report,M,,,
+268,Wahpeton Indian School,Wahpeton,ND,Unnamed child,,,TRUE,copmlications from acute neuritis,General illness/Other,Superintendent report,M,,,
+268,Wahpeton Indian School,Wahpeton,ND,Howard Fallsfeather,,,,septicemia,Infectious disease,"Superintendent report, death certificate, census",M,,Chippewa,"Ojibwe, Ottawa, Potawatomi"
+268,Wahpeton Indian School,Wahpeton,ND,Unnamed child,,1969,,,,Interior FOIA,F,,Sioux,"Sioux, Assiniboine"

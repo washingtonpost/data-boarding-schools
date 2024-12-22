@@ -1,0 +1,4 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+399,Panguitch Boarding School,Panguitch,UT,Unnamed child,,1904,TRUE,,,"ARCIA, Salt Lake Tribune 5/21/2022",,,,
+399,Panguitch Boarding School,Panguitch,UT,Alex Pagumpageta,,1905,,likely TB,Infectious disease,Salt Lake Tribune 5/21/2022,M,14,,
+399,Panguitch Boarding School,Panguitch,UT,Theodore Pinkie,,1906,,likely TB,Infectious disease,Salt Lake Tribune 5/21/2022,M,16,,

@@ -1,0 +1,28 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+61,Tuba City Boarding School,Tuba City,AZ,Unnamed child,,1913,TRUE,lung congestion,General illness/Other,"ARCIA, superintendent report",F,,,
+61,Tuba City Boarding School,Tuba City,AZ,Unnamed child,,1914,TRUE,,,ARCIA,,,,
+61,Tuba City Boarding School,Tuba City,AZ,Unnamed child,,1915,TRUE,,,ARCIA,,,,
+61,Tuba City Boarding School,Tuba City,AZ,Unnamed child,,1915,TRUE,,,ARCIA,,,,
+61,Tuba City Boarding School,Tuba City,AZ,Unnamed child,,1916,TRUE,,,ARCIA,,,,
+61,Tuba City Boarding School,Tuba City,AZ,Unnamed child,,1917,TRUE,,,ARCIA,,,,
+61,Tuba City Boarding School,Tuba City,AZ,Unnamed child,,1917,TRUE,,,ARCIA,,,,
+61,Tuba City Boarding School,Tuba City,AZ,Unnamed child,,1918,TRUE,,,ARCIA,,,,
+61,Tuba City Boarding School,Tuba City,AZ,Unnamed child,,1919,TRUE,,,ARCIA,,,,
+61,Tuba City Boarding School,Tuba City,AZ,Unnamed child,,1919,TRUE,,,ARCIA,,,,
+61,Tuba City Boarding School,Tuba City,AZ,Unnamed child,,1919,TRUE,,,ARCIA,,,,
+61,Tuba City Boarding School,Tuba City,AZ,Unnamed child,,1919,TRUE,,,ARCIA,,,,
+61,Tuba City Boarding School,Tuba City,AZ,Unnamed child,,1919,TRUE,,,ARCIA,,,,
+61,Tuba City Boarding School,Tuba City,AZ,Unnamed child,,1922,TRUE,flu complications,Infectious disease,Superintendent report,M,,,
+61,Tuba City Boarding School,Tuba City,AZ,Unnamed child,,1922,TRUE,flu complications,Infectious disease,Superintendent report,M,,,
+61,Tuba City Boarding School,Tuba City,AZ,Unnamed child,,1922,TRUE,flu complications,Infectious disease,Superintendent report,F,,,
+61,Tuba City Boarding School,Tuba City,AZ,Unnamed child,,1924,TRUE,flu,Infectious disease,Superintendent report,M,,,
+61,Tuba City Boarding School,Tuba City,AZ,George Fliziobetso,,1925,,bronchial pneumonia,Infectious disease,"Death certificate, Interior FOIA",M,14,Navajo,Navajo
+61,Tuba City Boarding School,Tuba City,AZ,Unnamed child,,1926,TRUE,flu,Infectious disease,Superintendent report,,,,
+61,Tuba City Boarding School,Tuba City,AZ,Unnamed child,,1926,TRUE,flu,Infectious disease,Superintendent report,,,,
+61,Tuba City Boarding School,Tuba City,AZ,Unnamed child,,1926,TRUE,flu,Infectious disease,Superintendent report,,,,
+61,Tuba City Boarding School,Tuba City,AZ,Unnamed child,,1926,TRUE,flu,Infectious disease,Superintendent report,,,,
+61,Tuba City Boarding School,Tuba City,AZ,Unnamed child,,1926,TRUE,flu,Infectious disease,Superintendent report,,,,
+61,Tuba City Boarding School,Tuba City,AZ,Nito Tomosa,,,,bronchial pneumonia,Infectious disease,"Death certificate, Interior FOIA",F,7,,
+61,Tuba City Boarding School,Tuba City,AZ,Shoey Johnson,,,,lobar pneumonia,Infectious disease,"Death certificate, Interior FOIA",M,10,"Navajo, Navaho, Dine",Navajo
+61,Tuba City Boarding School,Tuba City,AZ,Jimmy (Dunlap) Shortman,,1930,,lobar pneumonia,Infectious disease,"Death certificate, Interior FOIA, census",M,7,"Navajo, Navaho, Dine",Navajo
+61,Tuba City Boarding School,Tuba City,AZ,Chee Harold Calamity,,1944,,drowned when raft overturned,Accidents/Injuries,Death certificate,M,13,Navajo,Navajo

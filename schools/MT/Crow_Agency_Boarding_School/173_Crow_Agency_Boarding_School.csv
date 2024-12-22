@@ -1,0 +1,5 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+173,Crow Agency Boarding School,Crow Agency,MT,Unnamed child,,1891,TRUE,,,ARCIA,M,,,
+173,Crow Agency Boarding School,Crow Agency,MT,Unnamed child,,1893,TRUE,,,ARCIA,F,under 5,,
+173,Crow Agency Boarding School,Crow Agency,MT,Unnamed child,,1894,TRUE,,,ARCIA,M,,,
+173,Crow Agency Boarding School,Crow Agency,MT,Oliver Pease,,1906,TRUE,,,ARCIA,M,6,Crow,Crow

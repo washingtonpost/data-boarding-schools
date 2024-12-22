@@ -1,0 +1,13 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+426,Tomah Indian Industrial School,Tomah,WI,Unnamed child,,1894,TRUE,,,ARCIA,M,,,
+426,Tomah Indian Industrial School,Tomah,WI,Unnamed child,,1896,TRUE,,,ARCIA,,,,
+426,Tomah Indian Industrial School,Tomah,WI,Unnamed child,,1896,TRUE,,,ARCIA,,,,
+426,Tomah Indian Industrial School,Tomah,WI,Unnamed child,,1896,TRUE,,,ARCIA,,,,
+426,Tomah Indian Industrial School,Tomah,WI,Unnamed child,,1896,TRUE,,,ARCIA,,,,
+426,Tomah Indian Industrial School,Tomah,WI,Unnamed child,,1901,TRUE,diphtheria,Infectious disease,ARCIA,M,,,
+426,Tomah Indian Industrial School,Tomah,WI,Unnamed child,,1918,TRUE,,,ARCIA,,,,
+426,Tomah Indian Industrial School,Tomah,WI,Unnamed child,,,TRUE,none listed,Unknown/Unlisted,Superintendent report,,,,
+426,Tomah Indian Industrial School,Tomah,WI,Unnamed child,,,TRUE,none listed,Unknown/Unlisted,Superintendent report,,,,
+426,Tomah Indian Industrial School,Tomah,WI,Unnamed child,,,TRUE,pneumonia,Infectious disease,Superintendent report,,,,
+426,Tomah Indian Industrial School,Tomah,WI,Unnamed child,,,TRUE,measles,Infectious disease,Superintendent report,,,,
+426,Tomah Indian Industrial School,Tomah,WI,Unnamed child,,,TRUE,pneumonia,Infectious disease,Superintendent report,M,,,

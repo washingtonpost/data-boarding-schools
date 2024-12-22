@@ -1,0 +1,12 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+325,Pawnee Boarding and Training School,Pawnee,OK,Unnamed child,,1891,TRUE,,,ARCIA,M,,,
+325,Pawnee Boarding and Training School,Pawnee,OK,Unnamed child,,1892,TRUE,,,ARCIA,M,,,
+325,Pawnee Boarding and Training School,Pawnee,OK,Unnamed child,,1892,TRUE,,,ARCIA,F,,,
+325,Pawnee Boarding and Training School,Pawnee,OK,Sarah Bill,,1893,,Herpes Circinata,Infectious disease,School sanitary record,F,,,
+325,Pawnee Boarding and Training School,Pawnee,OK,Bertie Flying High,,1892,,Typhoid Material,Infectious disease,School sanitary record,,,,
+325,Pawnee Boarding and Training School,Pawnee,OK,Unnamed child,,1893,TRUE,,,ARCIA,,,,
+325,Pawnee Boarding and Training School,Pawnee,OK,Unnamed child,,1894,TRUE,,,ARCIA,M,,,
+325,Pawnee Boarding and Training School,Pawnee,OK,Unnamed child,,1894,TRUE,,,ARCIA,F,,,
+325,Pawnee Boarding and Training School,Pawnee,OK,Unnamed child,,1915,TRUE,,,ARCIA,,,,
+325,Pawnee Boarding and Training School,Pawnee,OK,Unnamed child,,1915,TRUE,,,ARCIA,,,,
+325,Pawnee Boarding and Training School,Pawnee,OK,Unnamed child,,1916,TRUE,,,ARCIA,,,,

@@ -1,0 +1,11 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+160,Morris Industrial School for Indians,Morris,MN,Kate Mountain,,1898,,Tuberculosis,Infectious disease,ARCIA,F,20,Chippewa,"Ojibwe, Ottawa, Potawatomi"
+160,Morris Industrial School for Indians,Morris,MN,Unnamed child,,1902,TRUE,Consumption,Infectious disease,ARCIA,,,,
+160,Morris Industrial School for Indians,Morris,MN,Unnamed child,,1902,TRUE,Heart Disease,Cardiovascular,ARCIA,,,,
+160,Morris Industrial School for Indians,Morris,MN,Weber Thunder Feather,,1903,,Mastoid abscess,Infectious disease,"ARCIA, Morris Tribune 6/20/1903",M,15,,
+160,Morris Industrial School for Indians,Morris,MN,Frank Vandalle,,1904,,typhoid pneumonia,Infectious disease,"ARCIA, Morris Tribune 10/22/1904",M,,,
+160,Morris Industrial School for Indians,Morris,MN,Unnamed child,,1904,,Typhoid Fever,Infectious disease,ARCIA,,,,
+160,Morris Industrial School for Indians,Morris,MN,Unnamed child,,1904,,Typhoid Fever,Infectious disease,ARCIA,,,,
+160,Morris Industrial School for Indians,Morris,MN,Adel Daupheais,,1904,,typhoid and pneumonia,Infectious disease,"ARCIA, Morris Tribune 10/15/1904",F,8,,
+160,Morris Industrial School for Indians,Morris,MN,Frederick Thompson,,1905,,pneumonia,Infectious disease,Morris Tribune 4/29/1905,M,11,,
+160,Morris Industrial School for Indians,Morris,MN,Sarah Fairbanks,,1904,,typhoid and diabetes,Infectious disease,"ARCIA, Morris Tribune 10/15/1904",F,6,,

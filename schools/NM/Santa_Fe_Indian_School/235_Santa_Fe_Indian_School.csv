@@ -1,0 +1,49 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+235,Santa Fe Indian School,Santa Fe,NM,Lizzie Montoya,,1891,,Tuberculosis,Infectious disease,"National Archives, graveyard plat",F,18,Jicarilla Apache,Apache
+235,Santa Fe Indian School,Santa Fe,NM,James/Jamie Calladito,,1891,,"Measles, pneumonia",Infectious disease,"National Archives, graveyard plat",M,8,Jicarilla Apache,Apache
+235,Santa Fe Indian School,Santa Fe,NM,Julia Fox,,1892,,"Measles, tuberculosis",Infectious disease,"National Archives, graveyard plat",F,10,Mohave,Other Tribes - Western
+235,Santa Fe Indian School,Santa Fe,NM,Walker Castorn,,1892,,,,"National Archives, graveyard plat",,12,Apache,Apache
+235,Santa Fe Indian School,Santa Fe,NM,Katalina,,1892,,,,"National Archives, graveyard plat",,6,Jicarilla Apache,Apache
+235,Santa Fe Indian School,Santa Fe,NM,Unnamed child,,1892,TRUE,ARCIA,Unknown/Unlisted,ARCIA,M,,,
+235,Santa Fe Indian School,Santa Fe,NM,Unnamed child,,1892,TRUE,ARCIA,Unknown/Unlisted,ARCIA,M,,,
+235,Santa Fe Indian School,Santa Fe,NM,Emily Jones,,1897,,Sudden heart failure,Cardiovascular,"National Archives, graveyard plat",F,18,Pima,"Pima, Maricopa"
+235,Santa Fe Indian School,Santa Fe,NM,Emily Rosenow,,1897,,,,Graveyard plat,,16,Navajo,Navajo
+235,Santa Fe Indian School,Santa Fe,NM,Doly Brown,,1896,,Pneumonia,Infectious disease,"National Archives, graveyard plat",M,10,Navajo,Navajo
+235,Santa Fe Indian School,Santa Fe,NM,Sava Cook,,1898,,"Measles, pneumonia",Infectious disease,"National Archives, graveyard plat",F,13,Pima,"Pima, Maricopa"
+235,Santa Fe Indian School,Santa Fe,NM,Bertha Snooks,,1898,,Tuberculosis,Infectious disease,"National Archives, graveyard plat",F,15,Yuma (Quechan),"Yakarna, Yakima"
+235,Santa Fe Indian School,Santa Fe,NM,Lobie Ischief,,1900,,Pneumonia,Infectious disease,"National Archives, graveyard plat",F,17,Pima,"Pima, Maricopa"
+235,Santa Fe Indian School,Santa Fe,NM,James Gorman,,1900,,,,"National Archives, graveyard plat",M,18,Navajo,Navajo
+235,Santa Fe Indian School,Santa Fe,NM,Frank Lyons,,1900,,Wagon accident,Accidents/Injuries,"National Archives, graveyard plat",M,17,Apache,Apache
+235,Santa Fe Indian School,Santa Fe,NM,Jose Apacheos,,1900,,,,Graveyard plat,F,,Pima,"Pima, Maricopa"
+235,Santa Fe Indian School,Santa Fe,NM,Frank Charles,,1901,,Tuberculosis,Infectious disease,"National Archives, graveyard plat",M,14,Western Shoshone,Paiute Shoshone
+235,Santa Fe Indian School,Santa Fe,NM,Juan Guitierras,,1900,,,,Las Vegas Daily Optic 8/20/1900,,,,
+235,Santa Fe Indian School,Santa Fe,NM,Unnamed child,,1902,,,,Interior FOIA,F,,"Pueblo of San Juan, Ohkay Owingeh",Pueblo
+235,Santa Fe Indian School,Santa Fe,NM,Chico Juan,,1902,,Tuberculosis,Infectious disease,"National Archives, graveyard plat",M,15,Tohono O’odham,Tohono O'odham
+235,Santa Fe Indian School,Santa Fe,NM,Taylor Dave,,1903,,Drowning,Accidents/Injuries,"National Archives, graveyard plat",M,19,Western Shoshone,Paiute Shoshone
+235,Santa Fe Indian School,Santa Fe,NM,Luceria Bernal,,1903,,chronic dysentery,Infectious disease,Santa Fe New Mexican 10/3/1903,F,,,
+235,Santa Fe Indian School,Santa Fe,NM,Rosa Ignacio,,1906,,,,"National Archives, graveyard plat",F,9,Tohono O’odham,Tohono O'odham
+235,Santa Fe Indian School,Santa Fe,NM,Maria Frances,,1907,,,,"National Archives, graveyard plat",F,12,Tohono O’odham,Tohono O'odham
+235,Santa Fe Indian School,Santa Fe,NM,Felipe Ahsissa,,1907,,,,"ARCIA, National Archives, graveyard plat",M,18,Navajo,Navajo
+235,Santa Fe Indian School,Santa Fe,NM,Susie Bah,,1907,,Paralytic stroke,Cardiovascular,"National Archives, graveyard plat",F,13,Navajo,Navajo
+235,Santa Fe Indian School,Santa Fe,NM,Maria Xavier,,1909,,Pneumonia,Infectious disease,"National Archives, graveyard plat",F,15,Tohono O’odham,Tohono O'odham
+235,Santa Fe Indian School,Santa Fe,NM,Juana Jose,Juanita Jose,1909,,Peritonitis,General illness/Other,"National Archives, graveyard plat",F,16,Tohono O’odham,Tohono O'odham
+235,Santa Fe Indian School,Santa Fe,NM,Unnamed child,,1914,TRUE,,,ARCIA,,,,
+235,Santa Fe Indian School,Santa Fe,NM,Unnamed child,,1915,TRUE,,,ARCIA,,,,
+235,Santa Fe Indian School,Santa Fe,NM,Unnamed child,,1915,TRUE,,,ARCIA,,,,
+235,Santa Fe Indian School,Santa Fe,NM,Unnamed child,,1916,TRUE,pneumonia,Infectious disease,"ARCIA, superintendent report",,,,
+235,Santa Fe Indian School,Santa Fe,NM,Unnamed child,,1916,TRUE,pneumonia,Infectious disease,"ARCIA, superintendent report",,,,
+235,Santa Fe Indian School,Santa Fe,NM,Unnamed child,,1918,,pneumonia,Infectious disease,"ARCIA, superintendent report",,,,
+235,Santa Fe Indian School,Santa Fe,NM,Unnamed child,,1919,TRUE,flu,Infectious disease,"ARCIA, superintendent report",,,,
+235,Santa Fe Indian School,Santa Fe,NM,Unnamed child,,1919,TRUE,flu,Infectious disease,"ARCIA, superintendent report",,,,
+235,Santa Fe Indian School,Santa Fe,NM,Unnamed child,,1919,TRUE,tuberculosis,Infectious disease,"ARCIA, superintendent report",,,,
+235,Santa Fe Indian School,Santa Fe,NM,Unnamed child,,,TRUE,tuberculosis,Infectious disease,Superintendent report,,,,
+235,Santa Fe Indian School,Santa Fe,NM,Unnamed child,,,TRUE,tuberculosis,Infectious disease,Superintendent report,,,Jicarilla Apache,Apache
+235,Santa Fe Indian School,Santa Fe,NM,Unnamed child,,,TRUE,cerebral hemorrhage,General illness/Other,Superintendent report,M,,Navajo,Navajo
+235,Santa Fe Indian School,Santa Fe,NM,Unnamed child,,1925,,,,"Interior FOIA, superintendent report",F,,"Pueblo of Picuris, Pe'ewi",Pueblo
+235,Santa Fe Indian School,Santa Fe,NM,Ramos Simbolo,,1926,,pneumonia,Infectious disease,"Superintendent report, death record",M,,Pueblo,Pueblo
+235,Santa Fe Indian School,Santa Fe,NM,Unnamed child,,,TRUE,appendicitis,General illness/Other,Superintendent report,M,,,
+235,Santa Fe Indian School,Santa Fe,NM,Unnamed child,,,TRUE,fever,Infectious disease,Superintendent report,F,,,
+235,Santa Fe Indian School,Santa Fe,NM,Unnamed child,,,TRUE,,,Superintendent report,,,,
+235,Santa Fe Indian School,Santa Fe,NM,Unnamed child,,,TRUE,,,Superintendent report,,,,
+235,Santa Fe Indian School,Santa Fe,NM,Unnamed child,,,TRUE,meningitis,Infectious disease,Superintendent report,,,,
+235,Santa Fe Indian School,Santa Fe,NM,Unnamed child,,,TRUE,none listed,Unknown/Unlisted,Superintendent report,M,,Navajo,Navajo

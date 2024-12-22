@@ -1,0 +1,8 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+423,Oneida Boarding and Day School,Oneida,WI,Unnamed child,,1895,,Croupus pneumonia,Infectious disease,ARCIA,,,,
+423,Oneida Boarding and Day School,Oneida,WI,Unnamed child,,1899,,Meningitis,Infectious disease,ARCIA,,,,
+423,Oneida Boarding and Day School,Oneida,WI,Unnamed child,,1899,,meningitis,Infectious disease,ARCIA,,,,
+423,Oneida Boarding and Day School,Oneida,WI,Unnamed child,,1913,TRUE,,,ARCIA,,,,
+423,Oneida Boarding and Day School,Oneida,WI,Unnamed child,,1914,TRUE,,,ARCIA,,,,
+423,Oneida Boarding and Day School,Oneida,WI,Unnamed child,,1914,TRUE,,,ARCIA,,,,
+423,Oneida Boarding and Day School,Oneida,WI,Unnamed child,,1918,TRUE,,,ARCIA,,,,

@@ -1,0 +1,3 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+145,Leech Lake Indian Boarding School,Walker,MN,Unnamed child,,1890,TRUE,,,ARCIA,M,,,
+145,Leech Lake Indian Boarding School,Walker,MN,Unnamed child,,1910,,pneumonia,Infectious disease,Superintendent report,,,,

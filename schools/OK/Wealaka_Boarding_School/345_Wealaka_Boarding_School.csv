@@ -1,0 +1,4 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+345,Wealaka Boarding School,Leonard,OK,Unnamed child,,1901,TRUE,smallpox,Infectious disease,ARCIA,,,,
+345,Wealaka Boarding School,Leonard,OK,Unnamed child,,1901,TRUE,smallpox,Infectious disease,ARCIA,,,,
+345,Wealaka Boarding School,Leonard,OK,Unnamed child,,1901,TRUE,meningitis,Infectious disease,ARCIA,,,,

@@ -1,0 +1,10 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+358,Lincoln Institution,Philadelphia,PA,John Robinson Longwolf,,1886,,typhoid fever,Infectious disease,"ARCIA, death certificate, church record",M,14,Sioux,"Sioux, Assiniboine"
+358,Lincoln Institution,Philadelphia,PA,Unnamed child,,1889,TRUE,,,ARCIA,M,,,
+358,Lincoln Institution,Philadelphia,PA,Unnamed child,,1889,TRUE,,,ARCIA,M,,,
+358,Lincoln Institution,Philadelphia,PA,Unnamed child,,1889,TRUE,,,ARCIA,M,,,
+358,Lincoln Institution,Philadelphia,PA,Charles Fisher,Cehas Fisher,1891,,consumption,Infectious disease,"Death certificate, church records, Findagrave",M,13,,
+358,Lincoln Institution,Philadelphia,PA,Samuel Porter,Hei-nun-gan,1891,,consumption,Infectious disease,"Death record, death certificate",M,19,,
+358,Lincoln Institution,Philadelphia,PA,John Frenchman,Ha-ga-kaw,1897,,,,"Findagrave, death certificate, census",M,14,,
+358,Lincoln Institution,Philadelphia,PA,Warren Clute,,1900,,"typhoid, pneumonia",Infectious disease,"Death certificate, census",M,12,,
+358,Lincoln Institution,Philadelphia,PA,Levi Charles,,1900,,"typhoid, pneumonia",Infectious disease,"Death certificate, census",M,11,,

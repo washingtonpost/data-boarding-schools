@@ -1,0 +1,5 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+331,Tullahassee Boarding School,Tullahassee,OK,Unnamed child,,1853,TRUE,"""scrofulous affections"" (tuberculosis of the lymph nodes)",Infectious disease,ARCIA,,,,
+331,Tullahassee Boarding School,Tullahassee,OK,Unnamed child,,1853,TRUE,"""scrofulous affections"" (tuberculosis of the lymph nodes)",Infectious disease,ARCIA,,,,
+331,Tullahassee Boarding School,Tullahassee,OK,Unnamed child,,1853,TRUE,pneumonia,Infectious disease,ARCIA,M,,,
+331,Tullahassee Boarding School,Tullahassee,OK,Unnamed child,,1855,TRUE,congestion of the brain,General illness/Other,ARCIA,F,,,

@@ -1,0 +1,14 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+158,Vermillion Lake Indian School,Tower,MN,Unnamed child,,1900,,diphtheria,Infectious disease,ARCIA,M,10,,
+158,Vermillion Lake Indian School,Tower,MN,Unnamed child,,1903,,measles,Infectious disease,ARCIA,,,,
+158,Vermillion Lake Indian School,Tower,MN,Unnamed child,,1905,TRUE,broncho-pneumonia,Infectious disease,ARCIA,,,,
+158,Vermillion Lake Indian School,Tower,MN,Jerry O'Brein Buska,,1906,,"""poisoning occasioned by eating a root resembling parsnips in the woods""",Accidents/Injuries,Ely Miner 6/22/1906,M,8,,
+158,Vermillion Lake Indian School,Tower,MN,Unnamed child,,1912,TRUE,pyemia,Infectious disease,"ARCIA, superintendent report",,,,
+158,Vermillion Lake Indian School,Tower,MN,Unnamed child,,1912,TRUE,pulmonary tuberculosis,Infectious disease,Superintendent report,,,,
+158,Vermillion Lake Indian School,Tower,MN,Unnamed child,,1914,TRUE,pulmonary tuberculosis,Infectious disease,"ARCIA, superintendent report",,,,
+158,Vermillion Lake Indian School,Tower,MN,Unnamed child,,,TRUE,nephritis,General illness/Other,Superintendent report,,,,
+158,Vermillion Lake Indian School,Tower,MN,Unnamed child,,,TRUE,tuberculosis,Infectious disease,Superintendent report,,,,
+158,Vermillion Lake Indian School,Tower,MN,Unnamed child,,,TRUE,flu,Infectious disease,Superintendent report,,,,
+158,Vermillion Lake Indian School,Tower,MN,Unnamed child,,,TRUE,flu,Infectious disease,Superintendent report,,,,
+158,Vermillion Lake Indian School,Tower,MN,Unnamed child,,,TRUE,flu,Infectious disease,Superintendent report,,,,
+158,Vermillion Lake Indian School,Tower,MN,Barbara Joan Boshey,,1949,,anemia,Cardiovascular,"Death certificate, Duluth Herald 3/15/1949, Findagrave",F,17,Chippewa,"Ojibwe, Ottawa, Potawatomi"

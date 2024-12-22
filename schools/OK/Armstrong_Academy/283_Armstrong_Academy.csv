@@ -1,0 +1,8 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+283,Armstrong Academy,Bokchito,OK,Unnamed child,,1849,TRUE,whooping cough,Infectious disease,ARCIA,,,,
+283,Armstrong Academy,Bokchito,OK,Unnamed child,,1903,TRUE,,,ARCIA,,,,
+283,Armstrong Academy,Bokchito,OK,Unnamed child,,1903,TRUE,,,ARCIA,,,,
+283,Armstrong Academy,Bokchito,OK,Unnamed child,,1903,TRUE,,,ARCIA,,,,
+283,Armstrong Academy,Bokchito,OK,Unnamed child,,1919,TRUE,tuberculosis,Infectious disease,Superintendent report,M,,,
+283,Armstrong Academy,Bokchito,OK,Charles Wallace,,1910,,poisoned,Accidents/Injuries,"Muskogee Times-Democrat, 3/4/1910",M,17,,
+283,Armstrong Academy,Bokchito,OK,Gissel Tonihka,,1910,,poisoned,Accidents/Injuries,"Muskogee Times-Democrat, 3/4/1910",M,,,

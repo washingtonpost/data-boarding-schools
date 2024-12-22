@@ -1,0 +1,33 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Unnamed child,,1891,TRUE,,,ARCIA,M,,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Unnamed child,,1891,TRUE,,,ARCIA,M,,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Unnamed child,,1892,TRUE,,,ARCIA,F,,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Unnamed child,,1892,TRUE,,,ARCIA,F,,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Unnamed child,,1892,TRUE,,,ARCIA,F,,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Unnamed child,,1892,TRUE,,,ARCIA,F,Under 5,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Unnamed child,,1893,TRUE,,,ARCIA,M,,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Unnamed child,,1893,TRUE,,,ARCIA,F,,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Unnamed child,,1893,TRUE,,,ARCIA,F,,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Unnamed child,,1893,TRUE,,,ARCIA,F,,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Unnamed child,,1894,TRUE,,,ARCIA,M,,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Unnamed child,,1894,TRUE,,,ARCIA,F,,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Unnamed child,,1894,TRUE,,,ARCIA,F,,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Unnamed child,,1895,TRUE,,,ARCIA,,,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Unnamed child,,1895,TRUE,,,ARCIA,,,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Unnamed child,,1895,TRUE,,,ARCIA,,,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Unnamed child,,1895,TRUE,,,ARCIA,,,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Unnamed child,,1896,TRUE,,,ARCIA,,,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Unnamed child,,1896,TRUE,,,ARCIA,,,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Unnamed child,,1896,TRUE,,,ARCIA,,,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Unnamed child,,1901,TRUE,,,ARCIA,,,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Unnamed child,,1901,TRUE,,,ARCIA,,,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Unnamed child,,1903,TRUE,"A small boy fell under a wagon wheel, sustaining internal injuries that took his life the next day",Accidents/Injuries,ARCIA,M,,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Unnamed child,,1903,TRUE,"Fell through the hay chute in the barn, sustaining injuries that would kill him in three weeks",Accidents/Injuries,ARCIA,,,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Unnamed child,,,TRUE,measles,Infectious disease,Superintendent report,,,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Ida Blackbird,,1916,,pneumonia,Infectious disease,ARCIA; Harlem News 1/21/1916; death certificate,F,,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Unnamed child,,1919,TRUE,,,ARCIA,,,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Jeff Jackson,,1928,,internal injuries from sledding accident,Accidents/Injuries,Bismarck Tribune 1/3/1928,M,7,,
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Alfred Plante,,1932,,,,"Death certificate, Interior FOIA, census",M,6,Turtle Mountain Band of Chippewa,Minnesota Chi
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Francis Martin,,1933,,,,"Death certificate, Interior FOIA",F,7,Turtle Mountain Band of Chippewa,Minnesota Chi
+255,Fort Totten Indian Industrial School,Fort Totten,ND,John Grandbois,John Grambois,1934,,,,"Death certificate, Interior FOIA, census",M,7,Turtle Mountain Band of Chippewa,Minnesota Chi
+255,Fort Totten Indian Industrial School,Fort Totten,ND,Eugene De Coteau,"Eugene Decoteau, Eugene Fontaine",1934,,cerebrospinal meningitis,Infectious disease,"Death certificate, Interior FOIA, census",M,8,Turtle Mountain Band of Chippewa,Minnesota Chi

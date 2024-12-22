@@ -1,0 +1,9 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+232,Toadlena Boarding School,Newcomb (Toadlena),NM,Unnamed child,,,TRUE,tuberculosis,Infectious disease,Superintendent report,,,,
+232,Toadlena Boarding School,Newcomb (Toadlena),NM,Florence Todue,,1927,,,,Death certificate,F,7,,
+232,Toadlena Boarding School,Newcomb (Toadlena),NM,Unnamed child,,,TRUE,measles,Infectious disease,Superintendent report,F,,,
+232,Toadlena Boarding School,Newcomb (Toadlena),NM,Unnamed child,,1926,,,,Interior FOIA,,,"Navajo, Navaho, Dine",Navajo
+232,Toadlena Boarding School,Newcomb (Toadlena),NM,Unnamed child,,1932,,,,Interior FOIA,,,"Navajo, Navaho, Dine",Navajo
+232,Toadlena Boarding School,Newcomb (Toadlena),NM,Unnamed child,,1930,,,,Interior FOIA,,,"Navajo, Navaho, Dine",Navajo
+232,Toadlena Boarding School,Newcomb (Toadlena),NM,Unnamed child,,1930,,,,Interior FOIA,,,"Navajo, Navaho, Dine",Navajo
+232,Toadlena Boarding School,Newcomb (Toadlena),NM,Unnamed child,,1934,,,,Interior FOIA,,,"Navajo, Navaho, Dine",Navajo

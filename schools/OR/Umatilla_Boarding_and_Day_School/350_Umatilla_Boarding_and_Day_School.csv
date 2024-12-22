@@ -1,0 +1,8 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+350,Umatilla Boarding and Day School,Pendleton,OR,Unnamed child,,1891,TRUE,"""pneumonia superinduced by measles""",Infectious disease,ARCIA,M,,,
+350,Umatilla Boarding and Day School,Pendleton,OR,Unnamed child,,,TRUE,measles and tuberculosis,Infectious disease,ARCIA,F,,,
+350,Umatilla Boarding and Day School,Pendleton,OR,Unnamed child,,1892,TRUE,,,ARCIA,,,,
+350,Umatilla Boarding and Day School,Pendleton,OR,Unnamed child,,1892,TRUE,,,ARCIA,,,,
+350,Umatilla Boarding and Day School,Pendleton,OR,Unnamed child,,1892,TRUE,,,ARCIA,,,,
+350,Umatilla Boarding and Day School,Pendleton,OR,Unnamed child,,1892,TRUE,,,ARCIA,,,,
+350,Umatilla Boarding and Day School,Pendleton,OR,Samuel Walker,,,TRUE,,,Superintendent report,M,,,

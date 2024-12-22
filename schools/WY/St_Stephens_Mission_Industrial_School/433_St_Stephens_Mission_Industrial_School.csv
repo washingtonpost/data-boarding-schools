@@ -1,0 +1,4 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+433,St. Stephen's Mission Industrial School,Saint Stephens,WY,William Addison,,1932,,tuberculosis,Infectious disease,"Marquette Univ. BCIM Series 2-1, Findagrave, death certificate, death record, census",M,14,Arapahoe,Arapaho
+433,St. Stephen's Mission Industrial School,Saint Stephens,WY,Pauline Manning,,1927,,tuberculosis,Infectious disease,"Marquette Univ. BCIM Series 2-1, Findagrave, death certificate",F,16,,
+433,St. Stephen's Mission Industrial School,Saint Stephens,WY,Irene Fredoy,Irene Friday,1929,,tuberculosis,Infectious disease,"Marquette Univ. BCIM Series 2-1, Findagrave, death certificate",F,13,,

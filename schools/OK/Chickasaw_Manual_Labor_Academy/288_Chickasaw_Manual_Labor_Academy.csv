@@ -1,0 +1,4 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+288,Chickasaw Manual Labor Academy,Tishomingo,OK,Unnamed child,,1852,TRUE,no cause listed,Unknown/Unlisted,ARCIA,F,,,
+288,Chickasaw Manual Labor Academy,Tishomingo,OK,Unnamed child,,1854,TRUE,the child was found dead in their bed in the morning. cause unknown,Unknown/Unlisted,ARCIA,,,,
+288,Chickasaw Manual Labor Academy,Tishomingo,OK,Unnamed child,,1858,TRUE,inflammation of the brain,General illness/Other,ARCIA,,,,

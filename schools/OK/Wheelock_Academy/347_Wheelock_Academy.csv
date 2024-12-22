@@ -1,0 +1,8 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+347,Wheelock Academy,Millerton,OK,Unnamed child,,1854,TRUE,,,ARCIA,,,,
+347,Wheelock Academy,Millerton,OK,Unnamed child,,1860,TRUE,dysentery,Infectious disease,ARCIA,,,,
+347,Wheelock Academy,Millerton,OK,Unnamed child,,1903,TRUE,,,ARCIA,,,,
+347,Wheelock Academy,Millerton,OK,Unnamed child,,,,malaria,Infectious disease,Superintendent report,F,,,
+347,Wheelock Academy,Millerton,OK,Unnamed child,,,TRUE,pneumonia,Infectious disease,Superintendent report,,,,
+347,Wheelock Academy,Millerton,OK,Sophia Fobb,,1925,,"""lingering affliction of the ear""",Infectious disease,"McCurtain Democrat 2/12/1925, court record",F,14,,
+347,Wheelock Academy,Millerton,OK,Ella Wilson,,1921,,"""illness of five days with paralysis""",General illness/Other,"McCurtain Gazette 11/12/1921, Findagrave",F,15,,

@@ -1,0 +1,11 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+71,Tucson Indian Training School,Tucson,AZ,Sophie,,1890,,,,"""Howard Billman and the Tucson Indian School, 1888-1894""",F,15,Papago,"Paiute, Shoshone, Bannock"
+71,Tucson Indian Training School,Tucson,AZ,Otto Miguel de Norris,,,,meningitis,Infectious disease,"Death certificate, municipal records",M,13,Pima,"Pima, Maricopa"
+71,Tucson Indian Training School,Tucson,AZ,Juan Norris,,,,intestinal hemorrhage and fever,Cardiovascular,"Death certificate, municipal records",M,15,,
+71,Tucson Indian Training School,Tucson,AZ,Luciana Norris,,,,"flu, pneumonia",Infectious disease,Death certificate,F,18,,
+71,Tucson Indian Training School,Tucson,AZ,Clinton Pedro,,1922,,Pneumonia,Infectious disease,Death certificate,M,16,,
+71,Tucson Indian Training School,Tucson,AZ,Lolita Thomas,,1923,,pulmonary tuberculosis,Infectious disease,"Death certificate, enrollment record",F,16,,
+71,Tucson Indian Training School,Tucson,AZ,Robert Chiago,,1923,,acute bronchia pneumonia,Infectious disease,"Death certificate, enrollment record",M,13,,
+71,Tucson Indian Training School,Tucson,AZ,Lillian Azule,,1923,,intestinal obstruction,General illness/Other,"Death certificate, enrollment record",F,12,,
+71,Tucson Indian Training School,Tucson,AZ,Unnamed child,,1943-1944,,"""accidental death""",Accidents/Injuries,Letter from superintendent,M,,,
+71,Tucson Indian Training School,Tucson,AZ,Norman Roberts,,,,"hemorrhage, fractured skull from a fight",Accidents/Injuries,"Death certificate, Tucson Daily Citizen 8/20/1953",M,18,Pima,"Pima, Maricopa"

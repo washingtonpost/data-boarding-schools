@@ -1,0 +1,4 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+267,St. Mary's Indian Industrial School,Belcourt,ND,Unnamed child,,1890,TRUE,,,ARCIA,F,,,
+267,St. Mary's Indian Industrial School,Belcourt,ND,Unnamed child,,1890,TRUE,,,ARCIA,M,,,
+267,St. Mary's Indian Industrial School,Belcourt,ND,Louis Pierre Lenoir,,1914,,redacted,Unknown/Unlisted,"Death certificate, Findagrave",M,6,,

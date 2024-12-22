@@ -1,0 +1,5 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+300,Wapanucka Institute,Bromide,OK,Unnamed child,,1856,TRUE,typhoid pneumonia,Infectious disease,ARCIA,F,,,
+300,Wapanucka Institute,Bromide,OK,Unnamed child,,1860,TRUE,,,ARCIA,F,,,
+300,Wapanucka Institute,Bromide,OK,Unnamed child,,1860,TRUE,,,ARCIA,F,,,
+300,Wapanucka Institute,Bromide,OK,Unnamed child,,1860,TRUE,,,ARCIA,F,,,

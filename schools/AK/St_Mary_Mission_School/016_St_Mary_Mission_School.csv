@@ -1,0 +1,4 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+16,St. Mary Mission School,Akulurak,AK,Sophia Takakoh,,1910 or 1911,,suspected flu,Infectious disease,"Alaska Native Heritage Center, census",F,,,
+16,St. Mary Mission School,Akulurak,AK,Lawan Lockwood,,1910 or 1911,,suspected flu,Infectious disease,"Alaska Native Heritage Center, census",,,,
+16,St. Mary Mission School,Akulurak,AK,Margaret Kumnik,,1910 or 1911,,suspected flu,Infectious disease,"Alaska Native Heritage Center, census",F,,,

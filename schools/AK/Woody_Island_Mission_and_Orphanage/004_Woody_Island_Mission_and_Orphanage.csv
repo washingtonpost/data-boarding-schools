@@ -1,0 +1,6 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+4,Woody Island Mission and Orphanage,Aleksashkina,AK,Olga Archamandritoff,,1906,,Illness,General illness/Other,Christopher Wooley,,,,
+4,Woody Island Mission and Orphanage,Aleksashkina,AK,Andrew Amiknuk,,1907,,Whooping cough,Infectious disease,Christopher Wooley,,11,,
+4,Woody Island Mission and Orphanage,Aleksashkina,AK,Alice Vesey,,1918,TRUE,Spanish influenza,Infectious disease,Christopher Wooley,,,,
+4,Woody Island Mission and Orphanage,Aleksashkina or Kodiak,AK,Agnes Robertson,,,,Whooping cough,Infectious disease,Christopher Wooley,,10,,
+4,Woody Island Mission and Orphanage,Aleksashkina or Kodiak,AK,Marfa Knagin,,,,Whooping cough,Infectious disease,Christopher Wooley,,10,,

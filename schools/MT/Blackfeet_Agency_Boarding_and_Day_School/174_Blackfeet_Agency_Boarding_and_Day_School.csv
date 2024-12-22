@@ -1,0 +1,10 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+174,Blackfeet Agency Boarding and Day School,Browning,MT,Unnamed child,,1894,TRUE,,,ARCIA,,,,
+174,Blackfeet Agency Boarding and Day School,Browning,MT,Unnamed child,,1910,TRUE,lobar pneumonia,Infectious disease,Superintendent report,,,,
+174,Blackfeet Agency Boarding and Day School,Browning,MT,Unnamed child,,1918,TRUE,flu,Infectious disease,Superintendent report,,,,
+174,Blackfeet Agency Boarding and Day School,Browning,MT,Unnamed child,,1918,TRUE,flu,Infectious disease,Superintendent report,,,,
+174,Blackfeet Agency Boarding and Day School,Browning,MT,Unnamed child,,1918,TRUE,flu,Infectious disease,Superintendent report,,,,
+174,Blackfeet Agency Boarding and Day School,Browning,MT,Unnamed child,,1919,TRUE,flu,Infectious disease,Superintendent report,,,,
+174,Blackfeet Agency Boarding and Day School,Browning,MT,James Little Youngman,,1927,,cerebrospinal meningitis,Infectious disease,"Death certificate, Interior FOIA",M,7,"Piegan, Peigan, Pikuni, Piikuni",Blackfeet
+174,Blackfeet Agency Boarding and Day School,Browning,MT,Daniel Mitten,Daniel Mittens,1928,,ran away from school and froze to death,Accidents/Injuries,"Death certificate; Interior FOIA; Cut Bank Pioneer Press, 12/7/1928",M,9,"Piegan, Peigan, Pikuni, Piikuni",Blackfeet
+174,Blackfeet Agency Boarding and Day School,Browning,MT,Jane Old Person,,1934,,bronchio pneumonia,Infectious disease,"Death certificate, superintendent report",F,12,Blackfeet,Blackfeet

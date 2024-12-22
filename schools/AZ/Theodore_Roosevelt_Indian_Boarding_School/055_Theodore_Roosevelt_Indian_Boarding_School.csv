@@ -1,0 +1,15 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+55,Theodore Roosevelt Indian Boarding School,Fort Apache,AZ,John James,,1925,,"meningitis, tuberculosis",Infectious disease,Death certificate,M,12,,
+55,Theodore Roosevelt Indian Boarding School,Fort Apache,AZ,Name unclear,,1933,,meningitis,Infectious disease,"Death certificate, Interior FOIA",M,13,Navajo,Navajo
+55,Theodore Roosevelt Indian Boarding School,Fort Apache,AZ,Unnamed child,,1933,,,,Interior FOIA,M,,"Navajo, Navaho, Dine",Navajo
+55,Theodore Roosevelt Indian Boarding School,Fort Apache,AZ,Unnamed child,,,TRUE,pneumonia,Infectious disease,Superintendent report,,,,
+55,Theodore Roosevelt Indian Boarding School,Fort Apache,AZ,Unnamed child,,,TRUE,pneumonia,Infectious disease,Superintendent report,M,,,
+55,Theodore Roosevelt Indian Boarding School,Fort Apache,AZ,Unnamed child,,1935,,,,Interior FOIA,,,White Mountain Apache,Apache
+55,Theodore Roosevelt Indian Boarding School,Fort Apache,AZ,Unnamed child,,1935,,,,Interior FOIA,,,White Mountain Apache,Apache
+55,Theodore Roosevelt Indian Boarding School,Fort Apache,AZ,Unnamed child,,1935,,,,Interior FOIA,,,White Mountain Apache,Apache
+55,Theodore Roosevelt Indian Boarding School,Fort Apache,AZ,Unnamed child,,1935,,,,Interior FOIA,,,White Mountain Apache,Apache
+55,Theodore Roosevelt Indian Boarding School,Fort Apache,AZ,Unnamed child,,,TRUE,meningitis,Infectious disease,Superintendent report,,,,
+55,Theodore Roosevelt Indian Boarding School,Fort Apache,AZ,Unnamed child,,,TRUE,pneumonia,Infectious disease,Superintendent report,,,,
+55,Theodore Roosevelt Indian Boarding School,Fort Apache,AZ,Unnamed child,,,TRUE,pneumonia,Infectious disease,Superintendent report,,,,
+55,Theodore Roosevelt Indian Boarding School,Fort Apache,AZ,Unnamed child,,,TRUE,none listed,Unknown/Unlisted,Superintendent report,,,,
+55,Theodore Roosevelt Indian Boarding School,Fort Apache,AZ,Unnamed child,,1929,,tuberculosis,Infectious disease,Superintendent report,,,,

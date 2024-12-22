@@ -1,0 +1,51 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+301,Chilocco Indian Agricultural School,Chilocco,OK,Josie Gregson,,,,,,"Chilocco memorial; Findagrave; Arkansas City Daily Traveler, 10/4/1888",,,Potawatomi,"Ojibwe, Ottawa, Potawatomi"
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1891,TRUE,,,ARCIA,M,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1891,TRUE,,,ARCIA,M,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1891,TRUE,,,ARCIA,F,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1892,TRUE,,,ARCIA,M,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1892,TRUE,,,ARCIA,F,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1893,TRUE,,,ARCIA,F,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1894,TRUE,,,ARCIA,M,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1894,TRUE,,,ARCIA,M,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1896,TRUE,,,ARCIA,,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1899,TRUE,,,ARCIA,,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1899,TRUE,,,ARCIA,,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1899,TRUE,,,ARCIA,,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1899,TRUE,,,ARCIA,,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1899,TRUE,,,ARCIA,,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1899,TRUE,,,ARCIA,,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1900,TRUE,,,ARCIA,,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Antonio Rodriguez,,1904,,spinal meningitis,Infectious disease,"Enrollment record; The Gate City Journal and Arkansas City Enquirer, 5/13/1904",M,13,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Pablo Saavedra,,1903,,,,Enrollment record,M,16,Navajo,Navajo
+301,Chilocco Indian Agricultural School,Chilocco,OK,John Durborrow,,,,appendicitis,General illness/Other,"Chilocco memorial; Arkansas City Daily Traveler, 1/19/1904",,20,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Joe Sullall,,,,pneumonia,Infectious disease,"Arkansas City Daily Traveler, 1/19/1904",,10,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Marian Cadman,,,,tuberculosis,Infectious disease,"Chilocco memorial; Findagrave; Arkansas City Daily News, 6/28/1906",,12,Navajo,Navajo
+301,Chilocco Indian Agricultural School,Chilocco,OK,Polycarpio Romero,,,,drowned,Accidents/Injuries,"Chilocco memorial; Findagrave; Republican News Journal, 7/19/1907",,20,Pueblo,Pueblo
+301,Chilocco Indian Agricultural School,Chilocco,OK,Nancy Machel,,,,tuberculosis,Infectious disease,"Chilocco memorial; Arkansas City Daily Traveler, 9/30/1908",F,18,Pima,"Pima, Maricopa"
+301,Chilocco Indian Agricultural School,Chilocco,OK,James Powell,,,,tuberculosis,Infectious disease,"Chilocco memorial; Arkansas City Daily Traveler, 12/31/1909; superintendent report",M,,Navajo,Navajo
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1914,TRUE,,,ARCIA,,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1914,TRUE,,,ARCIA,,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Sarah Hornett,,1915,,"poisoning, peritonitis",Accidents/Injuries,"Chilocco memorial; Tahlequah Star-Citizen, 12/9/1915; Arkansas City Daily Traveler, 12/6/1915",F,,Cherokee,Five Tribes - Cherokee
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1918,TRUE,pneumonia,Infectious disease,"Superintendent report, ARCIA",,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1919,TRUE,,,ARCIA,,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1920,TRUE,,,ARCIA,,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1921,TRUE,heart failure,Cardiovascular,Superintendent report,,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1921,,appendicitis and gall stones,General illness/Other,Superintendent report,M,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1922,TRUE,,,Superintendent report,,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1923,TRUE,pneumonia,Infectious disease,Superintendent report,M,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Edgar Charloe,,1923,,abscess on the small intestine,General illness/Other,Superintendent report,M,16,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Richard Wolfe,,1927,,steam burns,Accidents/Injuries,"Superintendent report; Wichita Eagle, 10/10/1926",M,20,Cherokee (Eastern),Five Tribes - Cherokee
+301,Chilocco Indian Agricultural School,Chilocco,OK,Elizabeth Smith,,1927,,empyema and pneumonia,Infectious disease,"Superintendent report; Republican News Journal, 11/26/1926",F,14,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Daniel Wood,,1927,,pneumonia,Infectious disease,"Superintendent report; Republican News Journal, 4/1/1927",M,14,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1927,TRUE,cerebrospinal meningitis,Infectious disease,Superintendent report,M,,Choctaw,Five Tribes - Choctaw
+301,Chilocco Indian Agricultural School,Chilocco,OK,Wattie Tiger,,1927,,"""accident caused by a javelin on the athletic field""",Accidents/Injuries,"Superintendent report; Nowata Daily Star, 5/5/1927",M,14,Creek,"Five Tribes - Creek, Muscogee, Seminole"
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1929,,pneumonia,Infectious disease,Superintendent report,M,17,Cherokee,Five Tribes - Cherokee
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1929,,pneumonia,Infectious disease,Superintendent report,F,15,Wyandotte,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1933,TRUE,,,Superintendent report,F,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Eugene Loffer,,,,tuberculosis,Infectious disease,"Chilocco memorial; Findagrave; superintendent report; Blackwell Journal-Tribune, 7/6/1933",M,16,Sioux,"Sioux, Assiniboine"
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1933,TRUE,,,Superintendent report,M,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Roy Quinton,,1933,,flu/pneumonia,Infectious disease,"Superintendent report; Ponca City News, 12/27/1932",M,18,Cherokee,Five Tribes - Cherokee
+301,Chilocco Indian Agricultural School,Chilocco,OK,Unnamed child,,1934,TRUE,,,Superintendent report,M,,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Lois Marbley,,1936,,hit by car,Accidents/Injuries,"Blackwell Journal-Tribune, 10/17/1936",F,15,,
+301,Chilocco Indian Agricultural School,Chilocco,OK,Billy Joe Whitlow,,1954,,hit by train,Accidents/Injuries,"Holdenville Daily News, 3/29/1954",M,,,

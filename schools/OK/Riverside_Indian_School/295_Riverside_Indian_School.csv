@@ -1,0 +1,17 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+295,Riverside Indian School,Anadarko,OK,Unnamed child,,1891,TRUE,,,ARCIA,F,,,
+295,Riverside Indian School,Anadarko,OK,Harry Henley,,1892,,Measles,Infectious disease,ARCIA,M,,Witchita,"Wichita, Kitikitish"
+295,Riverside Indian School,Anadarko,OK,Maggie Warden,,1892,,Measles,Infectious disease,ARCIA,F,,Witchita,"Wichita, Kitikitish"
+295,Riverside Indian School,Anadarko,OK,Eliza Hunter,,1892,,Measles,Infectious disease,ARCIA,F,,Caddo,Caddo Confederacy
+295,Riverside Indian School,Anadarko,OK,Unnamed child,,1892,TRUE,,,ARCIA,M,,,
+295,Riverside Indian School,Anadarko,OK,Unnamed child,,1892,TRUE,,,ARCIA,M,,,
+295,Riverside Indian School,Anadarko,OK,Unnamed child,,1892,TRUE,,,ARCIA,M,,,
+295,Riverside Indian School,Anadarko,OK,Unnamed child,,1892,TRUE,,,ARCIA,M,,,
+295,Riverside Indian School,Anadarko,OK,Unnamed child,,1892,TRUE,,,ARCIA,M,,,
+295,Riverside Indian School,Anadarko,OK,Unnamed child,,1892,TRUE,,,ARCIA,F,,,
+295,Riverside Indian School,Anadarko,OK,Unnamed child,,1904,,,,Interior FOIA,F,,,
+295,Riverside Indian School,Anadarko,OK,Unnamed child,,1927,,,,Interior FOIA,,,Kiowa,Kiowa
+295,Riverside Indian School,Anadarko,OK,Unnamed child,,1927,,,,Interior FOIA,F,,Apache,Apache
+295,Riverside Indian School,Anadarko,OK,Unnamed child,,1964,,,,Interior FOIA,F,,,
+295,Riverside Indian School,Anadarko,OK,Unnamed child,,1965,,,,Interior FOIA,M,,,
+295,Riverside Indian School,Anadarko,OK,Paul Lorenz,,1902,,homicide,Accidents/Injuries,"Findagrave, Anadarko Daily Democrat 12/29/1902",M,17,Wichita,"Wichita, Kitikitish"

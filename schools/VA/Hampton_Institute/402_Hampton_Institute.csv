@@ -1,0 +1,24 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+402,Hampton Institute,Hampton,VA,Unnamed child,,1870,TRUE,,,ARCIA,,,Saint Augustine,
+402,Hampton Institute,Hampton,VA,Unnamed child,,1870,TRUE,,,ARCIA,,,Saint Augustine,
+402,Hampton Institute,Hampton,VA,Unnamed child,,1870,TRUE,,,ARCIA,,,Saint Augustine,
+402,Hampton Institute,Hampton,VA,Unnamed child,,1870,TRUE,,,ARCIA,,,Dakotas,Sioux
+402,Hampton Institute,Hampton,VA,Unnamed child,,1870,TRUE,,,ARCIA,,,Dakotas,Sioux
+402,Hampton Institute,Hampton,VA,Unnamed child,,1870,TRUE,,,ARCIA,,,Dakotas,Sioux
+402,Hampton Institute,Hampton,VA,Unnamed child,,1870,TRUE,,,ARCIA,,,Dakotas,Sioux
+402,Hampton Institute,Hampton,VA,Unnamed child,,1870,TRUE,,,ARCIA,,,Dakotas,Sioux
+402,Hampton Institute,Hampton,VA,Unnamed child,,1881,,phthisis,Infectious disease,ARCIA,M,,,
+402,Hampton Institute,Hampton,VA,Unnamed child,,1882,TRUE,phthisis,Infectious disease,ARCIA,M,,,
+402,Hampton Institute,Hampton,VA,Unnamed child,,1886,TRUE,,,ARCIA,F,,,
+402,Hampton Institute,Hampton,VA,Unnamed child,,1886,TRUE,,,ARCIA,F,,,
+402,Hampton Institute,Hampton,VA,Unnamed child,,1886,TRUE,,,ARCIA,F,,,
+402,Hampton Institute,Hampton,VA,Unnamed child,,1886,TRUE,,,ARCIA,F,,,
+402,Hampton Institute,Hampton,VA,Unnamed child,,1887,TRUE,meningitis,Infectious disease,ARCIA,M,,,
+402,Hampton Institute,Hampton,VA,Unnamed child,,1887,TRUE,phthisis with incurrent pneumonia,Infectious disease,ARCIA,M,,,
+402,Hampton Institute,Hampton,VA,Unnamed child,,1893,TRUE,,,ARCIA,,,Crow Creek,"Sioux, Assiniboine"
+402,Hampton Institute,Hampton,VA,Unnamed child,,1895,TRUE,tuberculosis,Infectious disease,ARCIA,F,,Apache,Apache
+402,Hampton Institute,Hampton,VA,Unnamed child,,1901,TRUE,injuries sustained from a fall off a bicycle,Accidents/Injuries,ARCIA,,,,
+402,Hampton Institute,Hampton,VA,Unnamed child,,1902,TRUE,drowned,Accidents/Injuries,ARCIA,M,,,
+402,Hampton Institute,Hampton,VA,Unnamed child,,1880,,,,Interior FOIA,M,,"Mandan, Mantannes, Mayadana",
+402,Hampton Institute,Hampton,VA,Unnamed child,,1884,,,,Interior FOIA,M,,"Mandan, Mantannes, Mayadana",
+402,Hampton Institute,Hampton,VA,Unnamed child,,1900,,,,Interior FOIA,F,,"Arikara, Arickaree, Arikaree","Mandan, Hidatsa, Arikara"

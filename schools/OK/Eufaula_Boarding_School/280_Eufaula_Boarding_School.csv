@@ -1,0 +1,7 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+280,Sequoyah Orphan Training School,Tahlequah,OK,Unnamed child,,1927,TRUE,appendicitis,General illness/Other,Superintendent report,M,,Cherokee,Five Tribes - Cherokee
+280,Sequoyah Orphan Training School,Tahlequah,OK,Unnamed child,,1929,TRUE,influenza,Infectious disease,Superintendent report,F,,Cherokee,Five Tribes - Cherokee
+280,Sequoyah Orphan Training School,Tahlequah,OK,Unnamed child,,1931,TRUE,,,Superintendent report,M,,,
+280,Sequoyah Orphan Training School,Tahlequah,OK,Unnamed child,,1932,,,,Interior FOIA,,,Cherokee,Five Tribes - Cherokee
+280,Sequoyah Orphan Training School,Tahlequah,OK,Wynona Crawler,,1932,,appendicitis,General illness/Other,Interior FOIA,F,15,Cherokee,Five Tribes - Cherokee
+280,Sequoyah Orphan Training School,Tahlequah,OK,David McClain Linder,,1934,,,,Interior FOIA,M,17,Cherokee,Five Tribes - Cherokee

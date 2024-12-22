@@ -1,0 +1,6 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+339,Otoe Boarding School,Red Rock,OK,Unnamed child,,1892,TRUE,,,ARCIA,M,,,
+339,Otoe Boarding School,Red Rock,OK,Unnamed child,,1893,TRUE,,,ARCIA,F,,,
+339,Otoe Boarding School,Red Rock,OK,Unnamed child,,1910,TRUE,tuberculosis,Infectious disease,Superintendent report,,,,
+339,Otoe Boarding School,Red Rock,OK,Unnamed child,,1910,TRUE,tuberculosis,Infectious disease,Superintendent report,,,,
+339,Otoe Boarding School,Red Rock,OK,Unnamed child,,1918,TRUE,meningitis,Infectious disease,Superintendent report,M,,,

@@ -1,0 +1,26 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+89,Fort Lewis Indian Boarding School,Hesperus,CO,Ella La Pez,,,,tuberculosis,Infectious disease,History Colorado,,,Mescalero Apache,Apache
+89,Fort Lewis Indian Boarding School,Hesperus,CO,Julius Simms,Julius Sims,,,tuberculosis,Infectious disease,History Colorado,,,Mescalero Apache,Apache
+89,Fort Lewis Indian Boarding School,Hesperus,CO,Edward Plummer,,,,fever,Infectious disease,History Colorado,,,Navajo,Navajo
+89,Fort Lewis Indian Boarding School,Hesperus,CO,Julian Choshi,,,,tuberculosis,Infectious disease,History Colorado,,,Navajo,Navajo
+89,Fort Lewis Indian Boarding School,Hesperus,CO,Francis Chovekiss,,1902,,meningitis,Infectious disease,History Colorado,,,Navajo,Navajo
+89,Fort Lewis Indian Boarding School,Hesperus,CO,Rolla Browning,,,,tuberculosis,Infectious disease,History Colorado,,,Navajo,Navajo
+89,Fort Lewis Indian Boarding School,Hesperus,CO,Hadjespah Sandoval,,,,kidney ailment,General illness/Other,History Colorado,,,Navajo,Navajo
+89,Fort Lewis Indian Boarding School,Hesperus,CO,Thomas Youree,,,,tuberculosis,Infectious disease,History Colorado,,,Pima,"Pima, Maricopa"
+89,Fort Lewis Indian Boarding School,Hesperus,CO,Elias Naranjo,,,,rheumatism,Cardiovascular,History Colorado,,,Pueblo,Pueblo
+89,Fort Lewis Indian Boarding School,Hesperus,CO,Frank Serna,,,,pneumonia,Infectious disease,History Colorado,,,Pueblo Indian,Pueblo
+89,Fort Lewis Indian Boarding School,Hesperus,CO,Aveland Paniosa,,,,,,History Colorado,,,Southern Ute,Ute
+89,Fort Lewis Indian Boarding School,Hesperus,CO,May Shoshoni,,1900,,pneumonia,Infectious disease,History Colorado,,,Southern Ute,Ute
+89,Fort Lewis Indian Boarding School,Hesperus,CO,Mary Bent,,,,,,History Colorado,,12,Southern Ute,Ute
+89,Fort Lewis Indian Boarding School,Hesperus,CO,Caroline Chase,,,,,,History Colorado,,,Southern Ute,Ute
+89,Fort Lewis Indian Boarding School,Hesperus,CO,Peter Marshall,,,,,,History Colorado,,,Southern Ute,Ute
+89,Fort Lewis Indian Boarding School,Hesperus,CO,Mary Rooster,,1901,,tuberculosis,Infectious disease,History Colorado,,,Southern Ute,Ute
+89,Fort Lewis Indian Boarding School,Hesperus,CO,Frank Taylor,,,,pneumonia,Infectious disease,History Colorado,,,Southern Ute,Ute
+89,Fort Lewis Indian Boarding School,Hesperus,CO,Unnamed child,,,,disease,General illness/Other,History Colorado,,,,
+89,Fort Lewis Indian Boarding School,Hesperus,CO,Agnes Brown,,,,,,History Colorado,,,,
+89,Fort Lewis Indian Boarding School,Hesperus,CO,Anito Brice,,,,tuberculosis,Infectious disease,History Colorado,,,Ute,"Paiute, Shoshone, Bannock"
+89,Fort Lewis Indian Boarding School,Hesperus,CO,John Odell,,,,tuberculosis,Infectious disease,History Colorado,,,White Mountain Apache,Apache
+89,Fort Lewis Indian Boarding School,Hesperus,CO,Don Pedro,,,,pneumonia,Infectious disease,History Colorado,,,White Mountain Apache,Apache
+89,Fort Lewis Indian Boarding School,Hesperus,CO,Clara Weirick,,,,tuberculosis,Infectious disease,History Colorado,,,White Mountain Apache,Apache
+89,Fort Lewis Indian Boarding School,Hesperus,CO,William Barnum,Pay-e-tu,,,scrofula,Infectious disease,History Colorado,,,White Mountain Apache,Apache
+89,Fort Lewis Indian Boarding School,Hesperus,CO,Alexander Brewer,,,,tuberculosis,Infectious disease,History Colorado,,,White Mountain Apache,Apache

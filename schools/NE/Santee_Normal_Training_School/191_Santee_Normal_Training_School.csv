@@ -1,0 +1,10 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+191,Santee Normal Training School,Santee,NE,Unnamed child,,1873-1884,,,,The Word Carrier 3/1/1884,,,,
+191,Santee Normal Training School,Santee,NE,Unnamed child,,1873-1884,,,,The Word Carrier 3/1/1884,,,,
+191,Santee Normal Training School,Santee,NE,Unnamed child,,1873-1884,,,,The Word Carrier 3/1/1884,,,,
+191,Santee Normal Training School,Santee,NE,Primus Ode Hale,,1884,,,,"The Word Carrier 3/1/1884, Findagrave",M,,,
+191,Santee Normal Training School,Santee,NE,Minnie Garfield,,1885,,,,"The Word Carrier 2/1/1886, Findagrave",F,,,
+191,Santee Normal Training School,Santee,NE,Genevive Simmons,,1886,,,,"The Word Carrier 2/1/1886, Findagrave",F,,,
+191,Santee Normal Training School,Santee,NE,Unnamed child,,1891,TRUE,,,ARCIA,F,,,
+191,Santee Normal Training School,Santee,NE,Unnamed child,,1892,TRUE,,,ARCIA,M,,,
+191,Santee Normal Training School,Santee,NE,Unnamed child,,,TRUE,diphtheria,Infectious disease,Superintendent report,,,,

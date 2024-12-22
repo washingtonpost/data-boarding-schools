@@ -1,0 +1,10 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+67,Truxton Canyon School,Valentine,AZ,Unnamed child,,1910,,pneumonia,Infectious disease,Superintendent report,F,14,,
+67,Truxton Canyon School,Valentine,AZ,Unnamed child,,1913,TRUE,exhaustion caused by whooping cough,Infectious disease,"ARCIA, superintendent report",,,,
+67,Truxton Canyon School,Valentine,AZ,Unnamed child,,1916,TRUE,cerebrospinal meningitis,Infectious disease,"ARCIA, superintendent report",,,,
+67,Truxton Canyon School,Valentine,AZ,Unnamed child,,,TRUE,cerebrospinal meningitis,Infectious disease,Superintendent report,,,,
+67,Truxton Canyon School,Valentine,AZ,Unnamed child,,1934,,,,Interior FOIA,F,14,Apache,Apache
+67,Truxton Canyon School,Valentine,AZ,Unnamed child,,1926,,,,Interior FOIA,,,Hualapai,Other Tribes - Western
+67,Truxton Canyon School,Valentine,AZ,Unnamed child,,1927,,,,Interior FOIA,,,Apache,Apache
+67,Truxton Canyon School,Valentine,AZ,Unnamed child,,,,,,January 2024 DOI report appendix,,,,
+67,Truxton Canyon School,Valentine,AZ,Unnamed child,,,,,,January 2024 DOI report appendix,,,,

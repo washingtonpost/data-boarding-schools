@@ -1,0 +1,11 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+380,Pine Ridge Boarding School,Pine Ridge,SD,Unnamed child,,1894,TRUE,,,ARCIA,F,,,
+380,Pine Ridge Boarding School,Pine Ridge,SD,Unnamed child,,1894,TRUE,,,ARCIA,M,,,
+380,Pine Ridge Boarding School,Pine Ridge,SD,Unnamed child,,1914,TRUE,,,ARCIA,,,,
+380,Pine Ridge Boarding School,Pine Ridge,SD,Unnamed child,,1919,TRUE,,,ARCIA,,,,
+380,Pine Ridge Boarding School,Pine Ridge,SD,Unnamed child,,1920,TRUE,,,ARCIA,,,,
+380,Pine Ridge Boarding School,Pine Ridge,SD,Unnamed child,,1920,TRUE,,,ARCIA,,,,
+380,Pine Ridge Boarding School,Pine Ridge,SD,Unnamed child,,1929,,,,Interior FOIA,M,,Oglala Sioux from Pine Ridge,"Sioux, Assiniboine"
+380,Pine Ridge Boarding School,Pine Ridge,SD,Unnamed child,,1932,,,,Interior FOIA,F,,Sioux,"Sioux, Assiniboine"
+380,Pine Ridge Boarding School,Pine Ridge,SD,Unnamed child,,1928,,,,Interior FOIA,M,,Oglala Sioux from Pine Ridge,"Sioux, Assiniboine"
+380,Pine Ridge Boarding School,Pine Ridge,SD,Unnamed child,,1932,,,,Interior FOIA,M,,Sioux,"Sioux, Assiniboine"

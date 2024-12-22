@@ -1,0 +1,10 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+246,Mescalero Boarding School,Mescalero,NM,Unnamed child,,1892,TRUE,,,ARCIA,M,,,
+246,Mescalero Boarding School,Mescalero,NM,Unnamed child,,1905,,meningitis,,Las Vegas Daily Optic 4/8/1905,,,,
+246,Mescalero Boarding School,Mescalero,NM,Unnamed child,,1905,,meningitis,,Las Vegas Daily Optic 4/8/1905,,,,
+246,Mescalero Boarding School,Mescalero,NM,Unnamed child,,1905,,meningitis,,Las Vegas Daily Optic 4/8/1905,,,,
+246,Mescalero Boarding School,Mescalero,NM,Unnamed child,,1929-1932,,automobile accident,Accidents/Injuries,Superintendent report,,,,
+246,Mescalero Boarding School,Mescalero,NM,Unnamed child,,,TRUE,sepsis,Infectious disease,Superintendent report,,,,
+246,Mescalero Boarding School,Mescalero,NM,Unnamed child,,,TRUE,sepsis,Infectious disease,Superintendent report,,,,
+246,Mescalero Boarding School,Mescalero,NM,Unnamed child,,,TRUE,sepsis,Infectious disease,Superintendent report,,,,
+246,Mescalero Boarding School,Mescalero,NM,Unnamed child,,1931,,,,Interior FOIA,,,Mescalero Apache,Apache

@@ -1,0 +1,5 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+77,Perris Indian School,Perris,CA,Samuel Scholder,,1894,,Typhoid fever,Infectious disease,Jean Keller,M,19,Navajo,Navajo
+77,Perris Indian School,Perris,CA,Raymundo Blacktooth,,1899,,Heart failure,Cardiovascular,Jean Keller,,,,
+77,Perris Indian School,Perris,CA,Cahauna Nelson,,1899,,Heart failure,Cardiovascular,Jean Keller,,,,
+77,Perris Indian School,Perris,CA,Margarita Guache,,1899,,Heart failure -- meningitis?,Cardiovascular,Jean Keller,,,,

@@ -1,0 +1,5 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+324,Old Goodland Indian Orphanage,Hugo,OK,Analine Samuel,,1911,,consumption,Infectious disease,Choctaw Herald 11/2/1911,F,17,Choctaw,Five Tribes - Choctaw
+324,Old Goodland Indian Orphanage,Hugo,OK,Virginia Roberts,,1948,,"""brief illness""",General illness/Other,"Findagrave, Daily Oklahoman 5/24/1948",F,16,,
+324,Old Goodland Indian Orphanage,Hugo,OK,Verna Brown,Vernus Brown,1937,,heart attack,Cardiovascular,"Paris News 11/18/1937, Findagrave, census",F,,Choctaw,Five Tribes - Choctaw
+324,Old Goodland Indian Orphanage,Hugo,OK,Louis Imotichey,,1941,,drowned while trying to swim across lake,Accidents/Injuries,"Ada Evening News 10/5/1941, Findagrave, census",M,10,,

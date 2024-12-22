@@ -1,0 +1,5 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+407,Tulalip Mission School,Priest's Point,WA,Unnamed child,,1862,TRUE,,,ARCIA,,,,
+407,Tulalip Mission School,Priest's Point,WA,Unnamed child,,1867,TRUE,consumption,Infectious disease,ARCIA,M,,,
+407,Tulalip Mission School,Priest's Point,WA,Unnamed child,,1867,TRUE,consumption,Infectious disease,ARCIA,M,,,
+407,Tulalip Mission School,Priest's Point,WA,Hanford Henry,,1925,,,,Interior FOIA,M,12,Suquamish,Salish

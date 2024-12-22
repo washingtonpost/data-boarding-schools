@@ -1,0 +1,20 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+62,Fort Mojave Industrial School,Mohave Valley,AZ,Unnamed child,,1891,TRUE,,,ARCIA,M,Under 5,,
+62,Fort Mojave Industrial School,Mohave Valley,AZ,Unnamed child,,1902,TRUE,,,ARCIA,,,,
+62,Fort Mojave Industrial School,Mohave Valley,AZ,Unnamed child,,1912,TRUE,,,"ARCIA, superintendent report",,,,
+62,Fort Mojave Industrial School,Mohave Valley,AZ,Unnamed child,,1912,TRUE,,,"ARCIA, superintendent report",,,,
+62,Fort Mojave Industrial School,Mohave Valley,AZ,Unnamed child,,1913,TRUE,,,ARCIA,,,,
+62,Fort Mojave Industrial School,Mohave Valley,AZ,Unnamed child,,1918,TRUE,tuberculosis,Infectious disease,ARCIA,,,,
+62,Fort Mojave Industrial School,Mohave Valley,AZ,Unnamed child,,,TRUE,tuberculosis,Infectious disease,Superintendent report,,,,
+62,Fort Mojave Industrial School,Mohave Valley,AZ,Unnamed child,,,TRUE,tuberculosis,Infectious disease,Superintendent report,,,,
+62,Fort Mojave Industrial School,Mohave Valley,AZ,Unnamed child,,,TRUE,tuberculosis,Infectious disease,Superintendent report,,,,
+62,Fort Mojave Industrial School,Mohave Valley,AZ,Unnamed child,,1919,TRUE,,,ARCIA,,,,
+62,Fort Mojave Industrial School,Mohave Valley,AZ,Unnamed child,,1919,TRUE,,,ARCIA,,,,
+62,Fort Mojave Industrial School,Mohave Valley,AZ,Unnamed child,,1919,TRUE,,,ARCIA,,,,
+62,Fort Mojave Industrial School,Mohave Valley,AZ,Unnamed child,,1919,TRUE,,,ARCIA,,,,
+62,Fort Mojave Industrial School,Mohave Valley,AZ,Unnamed child,,1919,TRUE,,,ARCIA,,,,
+62,Fort Mojave Industrial School,Mohave Valley,AZ,Unnamed child,,1925,,tuberculosis,Infectious disease,Superintendent report,M,,Papago,"Paiute, Shoshone, Bannock"
+62,Fort Mojave Industrial School,Mohave Valley,AZ,Unnamed child,,1926,,,,Interior FOIA,F,,"Havasupai, Yava Supai",Other Tribes - Western
+62,Fort Mojave Industrial School,Mohave Valley,AZ,Christine Boniface,,1926,,pulmonary tuberculosis,Infectious disease,"Death certificate, census, Findagrave",F,,Chemehuevi,
+62,Fort Mojave Industrial School,Mohave Valley,AZ,Unnamed child,,,TRUE,none listed,Unknown/Unlisted,Superintendent report,,,,
+62,Fort Mojave Industrial School,Mohave Valley,AZ,Unnamed child,,,TRUE,fever,Infectious disease,Superintendent report,M,,,

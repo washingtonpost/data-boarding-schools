@@ -1,0 +1,37 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+92,Grand Junction Indian School,Grand Junction,CO,Pattie Wygant,,1894,,Illness,General illness/Other,Dr. John Seebach,F,11,Apache,Apache
+92,Grand Junction Indian School,Grand Junction,CO,Milford Cleveland,,1895,,Drowning,Accidents/Injuries,"Dr. John Seebach, news clip, ARCIA",M,,Navajo,Navajo
+92,Grand Junction Indian School,Grand Junction,CO,Ben Reed,Leonard Ben Reed,1888,,Typhoid,Infectious disease,"Dr. John Seebach, news clip",M,,,
+92,Grand Junction Indian School,Grand Junction,CO,Charles VandeVere,Charles Vandever,1890,,Drowning,Accidents/Injuries,Dr. John Seebach,,,,
+92,Grand Junction Indian School,Grand Junction,CO,Hannah Neliac,Hannah Nelyae,1893,,,,"Dr. John Seebach, news clip",F,,,
+92,Grand Junction Indian School,Grand Junction,CO,Unnamed child,,1893,TRUE,,,ARCIA,M,,,
+92,Grand Junction Indian School,Grand Junction,CO,Unnamed child,,1893,TRUE,,,ARCIA,M,,,
+92,Grand Junction Indian School,Grand Junction,CO,Allen Thurman,,1895,,Pneumonia,Infectious disease,"Dr. John Seebach, news clip",M,17,,
+92,Grand Junction Indian School,Grand Junction,CO,Desha Russell,Dezhae Russell,1896,,Complication of diseases,General illness/Other,"Dr. John Seebach, news clip",F,,Apache,Apache
+92,Grand Junction Indian School,Grand Junction,CO,George Washington,,1895,,Pneumonia,Infectious disease,"Dr. John Seebach, ARCIA, news clip",M,19,San Carlos Apache,Apache
+92,Grand Junction Indian School,Grand Junction,CO,Charles Bitts,,1898,,Bowel inflammation,General illness/Other,"Dr. John Seebach, news clip",,,Paiute,"Paiute, Shoshone, Bannock"
+92,Grand Junction Indian School,Grand Junction,CO,John Hardson,,1900,,Tuberculosis,Infectious disease,Dr. John Seebach,,,,
+92,Grand Junction Indian School,Grand Junction,CO,Unnamed child,,1900,,Typhoid,Infectious disease,Dr. John Seebach,M,16,,
+92,Grand Junction Indian School,Grand Junction,CO,Peter Armell,,1900,,Mountain fever,Infectious disease,"Dr. John Seebach, news clip",M,17,,
+92,Grand Junction Indian School,Grand Junction,CO,Samuel Shem,,1900,,Typhoid pneumonia,Infectious disease,Dr. John Seebach,M,about 12,,
+92,Grand Junction Indian School,Grand Junction,CO,Unnamed child,,1902,,Kidney trouble,General illness/Other,Dr. John Seebach,F,13,,
+92,Grand Junction Indian School,Grand Junction,CO,Paul Charlie,Paul Charley,1902,,none listed,Unknown/Unlisted,History Colorado,,,,
+92,Grand Junction Indian School,Grand Junction,CO,Luke C. Gorky,,1905,,"Consumption, severe lung hemorrhage",Infectious disease,"Dr. John Seebach, news clip",M,about 20,Navajo,Navajo
+92,Grand Junction Indian School,Grand Junction,CO,Charles Henry,,1905,,Unknown (illness/paralysis),Unknown/Unlisted,"Dr. John Seebach, news clip",M,10,Navajo,Navajo
+92,Grand Junction Indian School,Grand Junction,CO,Clara Upshaw,,,,tuberculosis,Infectious disease,History Colorado,,,,
+92,Grand Junction Indian School,Grand Junction,CO,Frank Enos,Frank Enas,1906,,Drowning,Accidents/Injuries,Dr. John Seebach,M,16,Shoshone,"Paiute, Shoshone, Bannock"
+92,Grand Junction Indian School,Grand Junction,CO,Ramon Simon,Raymon (Juan Antonio Simon),1909,,Injuries sustained during baseball,Accidents/Injuries,"Dr. John Seebach, news clip",M,19,Papago,"Paiute, Shoshone, Bannock"
+92,Grand Junction Indian School,Grand Junction,CO,Unnamed child,,1910,,Appendicitis,General illness/Other,Dr. John Seebach,F,,Papago,"Paiute, Shoshone, Bannock"
+92,Grand Junction Indian School,Grand Junction,CO,Ned Tomasito,,1907,,rheumatism,Cardiovascular,History Colorado,M,,Navajo,Navajo
+92,Grand Junction Indian School,Grand Junction,CO,Belasco Serafico,,1909,,tuberculosis,Infectious disease,"History Colorado, Daily Sentinel 6/14/1909",M,,Papago/Tohono O'Odham,Tohono O'odham
+92,Grand Junction Indian School,Grand Junction,CO,Tilise Martin,"Telise, Tilse Martin",1910,,appendicitis,General illness/Other,History Colorado,F,,Papago,"Paiute, Shoshone, Bannock"
+92,Grand Junction Indian School,Grand Junction,CO,Bessie Skoomp,,1900,,tuberculosis,Infectious disease,History Colorado,,,,
+92,Grand Junction Indian School,Grand Junction,CO,Jack Lilly,,1908,,none listed,Unknown/Unlisted,History Colorado,,,,
+92,Grand Junction Indian School,Grand Junction,CO,Ceta Vote,,1895,,abcess,Infectious disease,History Colorado,F,14,Yuma,Other Tribes - Western
+92,Grand Junction Indian School,Grand Junction,CO,Numa Raymond,,,,tuberculosis,Infectious disease,History Colorado,,,Mescalero Apache,Apache
+92,Grand Junction Indian School,Grand Junction,CO,Abram Hostinche,Abraam Hostinchee,,,pneumonia,,History Colorado,,,Navajo,Navajo
+92,Grand Junction Indian School,Grand Junction,CO,Fernando Juan,,,,brain clot,,History Colorado,,,Papago,"Paiute, Shoshone, Bannock"
+92,Grand Junction Indian School,Grand Junction,CO,Ita Keaslessi,,,,tuberculosis,,History Colorado,,,San Carlos Apache,Apache
+92,Grand Junction Indian School,Grand Junction,CO,Helen Tyler,,,,tuberculosis,,History Colorado,,,Shoshone,"Paiute, Shoshone, Bannock"
+92,Grand Junction Indian School,Grand Junction,CO,Ester Nuanes,,,,typhoid,,History Colorado,,,,
+92,Grand Junction Indian School,Grand Junction,CO,Ida Veamma,,,,,,History Colorado,,,Yuma,Other Tribes - Western

@@ -1,0 +1,29 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+387,Flandreau Indian School,Flandreau,SD,Joseph Little Brave,,1895,TRUE,Epilepsy,General illness/Other,ARCIA,M,16,Sioux,"Sioux, Assiniboine"
+387,Flandreau Indian School,Flandreau,SD,Lizzie,,,,tuberculosis,,"""Education for Extinction""",F,,,
+387,Flandreau Indian School,Flandreau,SD,Unnamed child,,,TRUE,tuberculosis,Infectious disease,Superintendent report,,,,
+387,Flandreau Indian School,Flandreau,SD,Unnamed child,,1911,,,,ARCIA,,,,
+387,Flandreau Indian School,Flandreau,SD,David Leoleboer,,1915,,drowned,Accidents/Injuries,Superintendent report; Brookings Register 7/8/1915,M,12,,
+387,Flandreau Indian School,Flandreau,SD,Unnamed child,,1916,TRUE,,,ARCIA,,,,
+387,Flandreau Indian School,Flandreau,SD,Unnamed child,,1916,TRUE,,,ARCIA,,,,
+387,Flandreau Indian School,Flandreau,SD,Unnamed child,,1916,TRUE,,,ARCIA,,,,
+387,Flandreau Indian School,Flandreau,SD,Unnamed child,,1917,TRUE,,,ARCIA,,,,
+387,Flandreau Indian School,Flandreau,SD,Unnamed child,,1917,TRUE,,,ARCIA,,,,
+387,Flandreau Indian School,Flandreau,SD,Josephine Robinson,,1929,,heart disease,Cardiovascular,"Census, Interior FOIA, death record",F,14,Flandreau Santee Sioux,"Sioux, Assiniboine"
+387,Flandreau Indian School,Flandreau,SD,Unnamed child,,1919,TRUE,tuberculosis,Infectious disease,"ARCIA, superintendent report",M,,,
+387,Flandreau Indian School,Flandreau,SD,Unnamed child,,1919,TRUE,heart failure,Cardiovascular,"ARCIA, superintendent report",F,,,
+387,Flandreau Indian School,Flandreau,SD,Unnamed child,,1920,TRUE,,,"ARCIA, superintendent report",,,,
+387,Flandreau Indian School,Flandreau,SD,Unnamed child,,1920,TRUE,,,"ARCIA, superintendent report",,,,
+387,Flandreau Indian School,Flandreau,SD,Unnamed child,,,TRUE,none listed,Unknown/Unlisted,Superintendent report,F,,,
+387,Flandreau Indian School,Flandreau,SD,Unnamed child,,,TRUE,tuberculosis,Infectious disease,Superintendent report,,,,
+387,Flandreau Indian School,Flandreau,SD,Unnamed child,,,TRUE,meningitis,Infectious disease,Superintendent report,,,,
+387,Flandreau Indian School,Flandreau,SD,Charles Beauchemin,,1929,,,,"Census, death records, enrollment record, Interior FOIA",M,,Flathead Indians,Salish
+387,Flandreau Indian School,Flandreau,SD,Dennis McLeod,,1930,,,,"Enrollment records, death index, census",M,15,Flathead,Salish
+387,Flandreau Indian School,Flandreau,SD,Unnamed child,,,TRUE,,,Superintendent report,,,,
+387,Flandreau Indian School,Flandreau,SD,Unnamed child,,,TRUE,,,Superintendent report,,,,
+387,Flandreau Indian School,Flandreau,SD,Unnamed child,,,TRUE,none listed,Unknown/Unlisted,Superintendent report,,,,
+387,Flandreau Indian School,Flandreau,SD,Unnamed child,,,TRUE,drowned,Accidents/Injuries,Superintendent report,,,,
+387,Flandreau Indian School,Flandreau,SD,Unnamed child,,,TRUE,,,Superintendent report,F,,,
+387,Flandreau Indian School,Flandreau,SD,Unnamed child,,,TRUE,,,Superintendent report,F,,,
+387,Flandreau Indian School,Flandreau,SD,Unnamed child,,,TRUE,,,Superintendent report,F,,,
+387,Flandreau Indian School,Flandreau,SD,Unnamed child,,,TRUE,,,Superintendent report,F,,,

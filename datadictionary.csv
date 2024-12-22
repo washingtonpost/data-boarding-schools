@@ -1,0 +1,34 @@
+﻿spreadsheet,column_name,Description
+schools.csv,School,Name of school from Vol. II Appendix B School Profiles https://www.doi.gov/media/document/vol-ii-appendix-b-school-profiles
+schools.csv,other_names,Other name of school from Vol. II Appendix B School Profiles
+schools.csv,State,State where school was located
+schools.csv,join_id,internal id to crosswalk with other Post data
+schools.csv,operation_dates,Operation dates from Vol. II Appendix B School Profiles
+schools.csv,religions_identified,Religions affiliated with the school operation from Vol. II Appendix B School Profiles
+schools.csv,tribes_identified,Tribes identified that attended the school from Vol. II Appendix B School Profiles
+schools.csv,deaths_documented_by_post,Count of deceased students identified by the Post
+schools.csv,deaths_documented_by_govt,Count of deceased students identified by the Interior from Vol. II Appendix B School Profiles
+schools.csv,grave_sites_found_by_post,Count of burial sites identified by the Post with at least one enrolled student interred. Onsite is a cemetery that was on the same campus as the school — either it was on school grounds or on the campus that was run by the religious organization which hosted the school and cemetery and church. Offsite is community cemeteries.
+schools.csv,grave_sites_found_by_govt,Count of burial sites associated with a school identified by the Interior from Vol. II Appendix B School Profiles
+burial_sites.csv,school,Name of school from Vol. II Appendix B School Profiles https://www.doi.gov/media/document/vol-ii-appendix-b-school-profiles
+burial_sites.csv,join_id,internal id to crosswalk with other Post data
+burial_sites.csv,cemetery_name,Name of cemetery
+burial_sites.csv,state,State of cemetery
+burial_sites.csv,findagravelink,Link to findagrave if public
+burial_sites.csv,burial_site_finding,Listed by the Interior Department or the Post
+burial_sites.csv,burial_site_on_campus,If burial site was on campus or off campus
+state/school_name.csv,join_id,internal id to crosswalk with other Post data
+state/school_name.csv,school_name,Name of school from Vol. II Appendix B School Profiles https://www.doi.gov/media/document/vol-ii-appendix-b-school-profiles
+state/school_name.csv,school_city,City where school was located
+state/school_name.csv,school_state,State where school was located
+state/school_name.csv,student_name,Name of student identified by the Interior Department or the Post
+state/school_name.csv,alternative_student_name,Native name if available
+state/school_name.csv,death_year,Death year
+state/school_name.csv,fy,If death year was from a fiscal year report
+state/school_name.csv,reported_cause_of_death,Recorded cause of death from the Interior or the Post
+state/school_name.csv,cause_of_death_category,Summarized category of cause of death by the Post
+state/school_name.csv,source,Source of student death
+state/school_name.csv,gender,Gender if available
+state/school_name.csv,age,age if available
+state/school_name.csv,tribe,tribe of student if available
+state/school_name.csv,doi_tribe_group,Tribe group as described by the Interior https://www.bia.gov/sites/default/files/media_document/vol_ii_appendix_i_list_of_deceased_by_tribe_public_508_final.pdf

@@ -1,0 +1,14 @@
+join_id,school_name,school_city,school_state,student_name,alternative_student_name,death_year,fy,reported_cause_of_death,cause_of_death_category,source,gender,age,tribe,doi_tribe_group
+83,Fort Bidwell Indian Boarding School,Fort Bidwell,CA,Unnamed child,,1900,TRUE,pneumonia,Infectious disease,ARCIA,,,,
+83,Fort Bidwell Indian Boarding School,Fort Bidwell,CA,Unnamed child,,1901,,measles,Infectious disease,ARCIA,,,,
+83,Fort Bidwell Indian Boarding School,Fort Bidwell,CA,Unnamed child,,1901,,measles,Infectious disease,ARCIA,,,,
+83,Fort Bidwell Indian Boarding School,Fort Bidwell,CA,Unnamed child,,1912,TRUE,,,ARCIA,,,,
+83,Fort Bidwell Indian Boarding School,Fort Bidwell,CA,Unnamed child,,1913,TRUE,,,ARCIA,,,,
+83,Fort Bidwell Indian Boarding School,Fort Bidwell,CA,Unnamed child,,1913,TRUE,,,ARCIA,,,,
+83,Fort Bidwell Indian Boarding School,Fort Bidwell,CA,Unnamed child,,1915,TRUE,,,ARCIA,,,,
+83,Fort Bidwell Indian Boarding School,Fort Bidwell,CA,Unnamed child,,1916,TRUE,,,ARCIA,,,,
+83,Fort Bidwell Indian Boarding School,Fort Bidwell,CA,Unnamed child,,1917,TRUE,,,ARCIA,,,,
+83,Fort Bidwell Indian Boarding School,Fort Bidwell,CA,Unnamed child,,1919,TRUE,,,ARCIA,,,,
+83,Fort Bidwell Indian Boarding School,Fort Bidwell,CA,Unnamed child,,1922,TRUE,Severe colds or influenza followed by TB,Infectious disease,Superintendent report,,,,
+83,Fort Bidwell Indian Boarding School,Fort Bidwell,CA,Unnamed child,,1922,TRUE,Severe cold or influenza followed by pus in the right lung cavity.,Infectious disease,Superintendent report,,,,
+83,Fort Bidwell Indian Boarding School,Fort Bidwell,CA,Amos DeGarmo,,1930,,"pneumonia, tuberculosis",Infectious disease,"Findagrave, enrollment record, census",M,16,Paiute,"Paiute, Shoshone, Bannock"
