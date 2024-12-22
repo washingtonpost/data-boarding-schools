@@ -1,4 +1,4 @@
-##Indian Boarding Schools
+# Indian Boarding Schools
 
 ### Methodology
 
