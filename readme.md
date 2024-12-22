@@ -38,13 +38,13 @@ This collection is a snapshot of our work as of December 2024\. There are no pla
 
 The Post’s collection includes:
 
-* A boarding\_schools.csv file with the name of each school, state, the count of deceased students from the Interior Department and The Post, the count of cemeteries from the Interior Department and The Post, and additional details about the schools as reported by the Interior.  
-* A burial\_sites.csv file listing the cemeteries where The Post found evidence that a deceased boarding school student had been buried.  
+* A [boarding\_schools.csv](https://github.com/washingtonpost/data-boarding-schools/blob/main/burial_sites.csv) file with the name of each school, state, the count of deceased students from the Interior Department and The Post, the count of cemeteries from the Interior Department and The Post, and additional details about the schools as reported by the Interior.  
+* A [burial\_sites.csv](https://github.com/washingtonpost/data-boarding-schools/blob/main/burial_sites.csv) file listing the cemeteries where The Post found evidence that a deceased boarding school student had been buried.  
 * A folder for each school that includes:  
   * A .csv file that lists the names and details of students who died.   
   * Snapshots of research documenting student deaths at that school, including publicly available news reports, Annual reports to the Commissioner of Indian Affairs (ARCIA reports), Superintendents’ Annual Narrative and Statistical Reports and other school records.  
   * Enrollment records from those schools, if available.  
-* A data dictionary for the two .csv files.
+* A [data dictionary](https://github.com/washingtonpost/data-boarding-schools/blob/main/data_dictionary.csv) for the .csv files.
 
 ##  **RESEARCH SCENARIOS**
 
