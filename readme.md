@@ -1,4 +1,5 @@
-## INDIAN BOARDING SCHOOLS
+##[More than 3,100 students died at schools built to crush Native American cultures]
+(https://www.washingtonpost.com/investigations/interactive/2024/native-american-deaths-burial-sites-boarding-schools/)
 
 ### Methodology
 
